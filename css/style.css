@@ -1,0 +1,20 @@
+.pop{
+    width: 100%;
+    margin: 0 auto 10px;
+}
+.proBox{
+    margin: 10px 0; 
+}
+.pro_txt{
+	color: #bbb;
+}
+.pro_txt a{
+	color: #cbd653;
+}
+.pro_img img{
+    width: 100%;
+    padding: 2px;
+    border: 1px solid #444;
+}
+.portfolio-modal .modal-body h2{ color: #ccc;}
+.portfolio-modal .close-modal .lr { color: #cbd653;}
