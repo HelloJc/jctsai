@@ -324,7 +324,7 @@ header .intro-text .intro-heading {
         line-height: 75px;
     }
 }
-
+.count{ position: absolute; bottom: 10px;}
 section {
     padding: 100px 0;
 }
